@@ -1,2 +1,2 @@
 # abylay-careers-website
-A career's website for Abylay
+A careers website for Abylay
